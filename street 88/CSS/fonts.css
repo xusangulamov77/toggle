@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(../FONTS/Roboto/Roboto-BlackItalic.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url(../FONTS/Roboto/Roboto-Bold.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Raleway";
+    src: url(../FONTS/Raleway/static/Raleway-BlackItalic.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Raleway";
+    src: url(../FONTS/Raleway/static/Raleway-Bold.ttf);
+    font-weight: 700;
+}
